@@ -1,5 +1,7 @@
-## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="150"/>
+</div>
+<div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
